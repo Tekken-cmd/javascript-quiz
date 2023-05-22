@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+    padding-top: 100px;
+    background-color: #0b2239;
+    color: #fff;
+}
+
+#container {
+    width: 500px;
+    height: 400px;
+    border: 1px solid #2bc48a;
+    margin: 0 auto;
+    background-color: #0e2a47;
+}
+
+#myTitle {
+    padding-top: 40px;
+}
+
+#myCount {
+    padding: 40px 0 30px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+button {
+    width: 150px;
+    padding: 7px;
+    margin: 3px;
+}
+
+.green {
+   color: #2bc48a;
+}
+
+.red {
+    color: rgb(242, 40, 40);
+}
+
+button {
+    background-color: #0b2239;
+    border: 1px solid #2bc48a;
+    color: #fff;
+    border-radius: 12px;
+    font-size: 14px;
+}
+
+button:hover {
+    background-color: #0e2a47;
+}
+
+#decreaseBtn:hover {
+    color:rgb(242, 40, 40);
+}
+
+#increaseBtn:hover {
+    color: #2bc48a;
+}
